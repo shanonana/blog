@@ -4,6 +4,23 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
+  label: Layout
+  name: layout
+  default: post
 - type: textarea
+  label: Title
+  name: title
+- type: file
+  name: cover
+  label: Cover
+- type: datetime
+  name: date
+  label: Date
+- type: tag_list
+  name: tags
+  label: Tags
+- type: text
+  name: author
+  label: Author
 pages:
 - _posts/test.md
