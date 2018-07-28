@@ -33,7 +33,6 @@ kramdown:
 
 plugins:
   - jekyll-paginate
-  - jekyll-admin
 
 
 # Settings for rake task
