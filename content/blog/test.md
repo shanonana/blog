@@ -10,6 +10,6 @@ title = "Test"
 type = "post"
 
 +++
-# Good morning, bebo!
+# Hooray!
 
 Here's a new post
