@@ -2,7 +2,7 @@
 author = "Theme author"
 categories = ["Hugo"]
 date = "2014-09-28"
-description = "Learn how to create a theme on Hugo"
+description = "I hope you like your new blog!"
 featured = "pic03.jpg"
 featuredalt = "Pic 3"
 featuredpath = "date"
@@ -14,6 +14,4 @@ type = "post"
 +++
 ## Hi Shan!
 
-I hope you like your blog!!
-
-testing
+This is where you would write your post
