@@ -1,7 +1,7 @@
 +++
 author = "Theme author"
 categories = ["Hugo"]
-date = "2014-09-28"
+date = "2018-07-29T07:00:00+00:00"
 description = "I hope you like your new blog!"
 featured = "20170920_072051_HDR.jpg"
 featuredalt = "Pic 3"
