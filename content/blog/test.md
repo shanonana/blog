@@ -12,4 +12,4 @@ type = "post"
 +++
 # Hooray!
 
-Here's a new post!
+Here's a new post!!
