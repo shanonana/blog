@@ -7,5 +7,3 @@ fields:
   label: Layout
   name: layout
   default: post
-pages:
-- _posts/2018-07-28-test.md
