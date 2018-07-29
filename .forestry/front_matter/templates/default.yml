@@ -10,11 +10,6 @@ fields:
   name: type
   label: Type
   default: post
-- type: datetime
-  name: date
-  label: Date
-  config:
-    date_format: YYYY/MM/DD
 - type: tag_list
   name: categories
   label: Categories
@@ -35,5 +30,9 @@ fields:
   name: description
   label: Description
   description: "(Secondary header)"
+- type: text
+  label: Date
+  name: date
+  description: YYYY/MM/DD
 pages:
 - content/blog/test.md
