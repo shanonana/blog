@@ -8,7 +8,7 @@ featuredalt = "Pic 3"
 featuredpath = "date"
 linktitle = ""
 tags = ["tutorial"]
-title = "Good morning, bebo!"
+title = "Good morning, bebo!!"
 type = "post"
 
 +++
