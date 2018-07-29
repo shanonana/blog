@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Hugo"]
 date = "2018-07-29"
 description = "Here is your new blog!"
 featured = "20170920_072051_HDR.jpg"
@@ -11,3 +11,5 @@ type = "post"
 
 +++
 # Good morning, bebo!
+
+Here's a new post
