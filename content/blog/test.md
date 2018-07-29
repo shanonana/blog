@@ -6,10 +6,10 @@ featured = "20170920_072051_HDR.jpg"
 featuredalt = ""
 featuredpath = "date"
 tags = []
-title = "Good morning, bebo!"
+title = "Test"
 type = "post"
 
 +++
 # Hooray!
 
-Here's a new post!
+Here's a new post!!
