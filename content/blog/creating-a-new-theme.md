@@ -14,4 +14,4 @@ type = "post"
 +++
 ## Hi Shan!
 
-This is where you would write your post!!
+This is where you would write your post!
