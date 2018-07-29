@@ -7,3 +7,5 @@ fields:
   label: Layout
   name: layout
   default: post
+pages:
+- content/_posts/test.md
