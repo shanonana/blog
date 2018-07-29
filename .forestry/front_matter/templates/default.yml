@@ -33,6 +33,6 @@ fields:
 - type: text
   label: Date
   name: date
-  description: YYYY/MM/DD
+  description: YYYY-MM-DD
 pages:
 - content/blog/test.md
