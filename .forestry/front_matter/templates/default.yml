@@ -13,6 +13,8 @@ fields:
 - type: datetime
   name: date
   label: Date
+  config:
+    date_format: YYYY/MM/DD
 - type: tag_list
   name: categories
   label: Categories
