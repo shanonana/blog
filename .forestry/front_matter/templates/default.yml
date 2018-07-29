@@ -2,4 +2,27 @@
 label: Default
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: type
+  label: Type
+  default: post
+- type: tag_list
+  name: categories
+  label: Categories
+- type: text
+  name: featured
+  label: Featured
+- type: text
+  name: featuredalt
+  label: Featuredalt
+- type: text
+  name: featuredpath
+  label: Featuredpath
+  default: date
+- type: tag_list
+  name: tags
+  label: Tags
