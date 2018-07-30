@@ -35,4 +35,5 @@ fields:
   name: date
   description: YYYY-MM-DD
 pages:
+- content/blog/walk-the-dog.md
 - content/blog/test.md
