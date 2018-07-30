@@ -2,10 +2,10 @@
 categories = []
 date = "2018-07-30"
 description = "easier said than done..."
-featured = ""
+featured = "CEDAR&SHAN.jpg"
 featuredalt = ""
 featuredpath = "date"
-tags = []
+tags = ["Dog Training"]
 title = "Walk the Dog"
 type = "post"
 
