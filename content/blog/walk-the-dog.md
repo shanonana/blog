@@ -5,7 +5,7 @@ description = "easier said than done..."
 featured = "CEDAR&SHAN.jpg"
 featuredalt = ""
 featuredpath = "date"
-tags = ["Dog Training"]
+tags = ["Dog Training", "Animals"]
 title = "Walk the Dog"
 type = "post"
 
