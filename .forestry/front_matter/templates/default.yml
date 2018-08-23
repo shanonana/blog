@@ -35,5 +35,6 @@ fields:
   name: date
   description: YYYY-MM-DD
 pages:
+- content/blog/why-should-you-start-a-bullet-journal.md
 - content/blog/walk-the-dog.md
 - content/blog/test.md
