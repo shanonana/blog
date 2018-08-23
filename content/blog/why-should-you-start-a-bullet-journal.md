@@ -2,7 +2,6 @@
 categories = []
 date = "2018-08-23"
 description = ""
-draft = true
 featured = "IMG_2872 2.jpg"
 featuredalt = ""
 featuredpath = ""
