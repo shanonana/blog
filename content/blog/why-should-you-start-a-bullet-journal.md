@@ -10,7 +10,7 @@ title = "Why should you start a Bullet Journal?"
 type = "post"
 
 +++
-I don't use this phrase lightly, so I mean it when I say: the bullet journal changed my life.  As someone with a ton of to-do's, multiple calendars/jobs, and limited free time, bullet journaling has kept me focused and organized during my busiest times.  And the moments when something slipped through the cracks, have all been when I was slacking on updating my journal.
+I don't use this phrase lightly, so I mean it when I say: the bullet journal changed my life.  As someone with a ton of to-do's, multiple calendars/jobs, and limited free time, bullet journaling has kept me focused and organized during my busiest times.  And if something does slip through the cracks, it's usually when I was slacking on updating my journal.
 
 There are a ton of ways to organize a bullet journal.  It can be intimidating to start; I am incredibly guilty of putting things off just because I'm waiting for the right moment to sit down and spend enough time and thought with it.  Bullet journaling can seem like a large task when you look at some of the incredible spreads people create. The inventor of the bullet journal, Ryder Carrol, has set up an intuitive system for tracking, organizing, and planning.  Learn more about his methods at [http://bulletjournal.com.](http://bulletjournal.com. "http://bulletjournal.com.")  Though his vision is lovely and incredibly efficient for many people, it may not be for everyone.  When starting a bullet journal, the most important thing to remember is to keep it simple and do what makes sense to you.  The last thing you want is to get discouraged trying to follow a system you don't completely understand or buy into yet.
 
